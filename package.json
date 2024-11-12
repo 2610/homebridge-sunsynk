@@ -7,13 +7,13 @@
         "name": "Chris Posthumus",
         "email": "chris.posthumus@gmail.com"
     },
-    "homepage": "https://github.com/K1LL3R234/homebridge-sunsynk",
+    "homepage": "https://github.com/2610/homebridge-sunsynk",
     "repository": {
         "type": "git",
-        "url": "https://github.com/K1LL3R234/homebridge-sunsynk.git"
+        "url": "https://github.com/2610/homebridge-sunsynk.git"
     },
     "bugs": {
-        "url": "https://https://github.com/K1LL3R234/homebridge-sunsynk/issues"
+        "url": "https://https://github.com/2610/homebridge-sunsynk/issues"
     },
     "funding": [
         {
